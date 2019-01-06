@@ -1,6 +1,6 @@
 token=NTI4Nzg2MDQ0MTg4MDk4NTcx.DwnXAw.igSY-2jWHv53LI6406BEe0284rk
 owner=521341978659651596
 prefix= M
-game= Khaled|Maram
+game= Mak,
 stayinchannel=false
 songinstatus=false
